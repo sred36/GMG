@@ -1,0 +1,2 @@
+# GMG
+Product details page 
