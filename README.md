@@ -7,7 +7,7 @@
  Simple product details page which contains product main image and product title, product price, Availability of sizes and see more section
 
 # Demo:
-   https://sred36.github.io/GMG/GMG-PDP/index.html
+  https://rawcdn.githack.com/sred36/GMG/73485b31d60e50302e955f5bf410fb515fdeca3d/GMG-PDP/index.html
   
 # Technologies: 
 
