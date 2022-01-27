@@ -52,7 +52,7 @@ The branch has 3 folders:
 
 # Local Demo: 
     
-  1) Download Master branch
+  1) Download PDP-API branch
   2) npm install
   3) grunt sass
   4) grunt js
