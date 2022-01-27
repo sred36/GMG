@@ -92,7 +92,7 @@ The branch has 3 folders:
 
 #Local Demo: 
     
-    1) download PDP-STEP3 branch
+    1) Download PDP-React branch
     2) extarct the zip folder
     3) npm install
     4) npm install --save react-router-dom
