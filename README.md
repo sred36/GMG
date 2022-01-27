@@ -8,7 +8,7 @@
    Product informatio is loading from Ajax
 
 # Demo:
-  https://rawcdn.githack.com/sred36/PDP-TEST1/Feature/PDP-STEP2/index.html
+https://rawcdn.githack.com/sred36/GMG/3b12df94052c6c885db4a9549b02dadcbe226d84/GMG-PDP-API/index.html
   
 # Technologies:
 
